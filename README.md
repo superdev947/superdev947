@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Supder Dev
-### **Senior Full-Stack Engineer** | **Blockchain Engineer** | **AI Engineer**
+### **Senior Full-Stack Engineer** | **AI Engineer** | **Blockchain Engineer**
 
 [![GitHub Followers](https://img.shields.io/github/followers/superdev947?label=Follow&style=social)](https://github.com/superdev947)
 [![Years of Experience](https://img.shields.io/badge/7%2B%20Years-Expert-%23FF6B00)](https://)
@@ -80,8 +80,6 @@ Specializing in scalable architectures from frontend to blockchain.
 ### 📈 **GitHub Analytics**
 [![Your Stats](https://github-readme-stats.vercel.app/api?username=superdev947&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/superdev947)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superdev947&layout=compact&theme=dark&hide_border=true)](https://github.com/superdev947)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=superdev947&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
