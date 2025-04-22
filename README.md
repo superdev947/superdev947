@@ -2,7 +2,7 @@
 ### **Senior Full-Stack Engineer** | **AI Engineer** | **Blockchain Engineer**
 
 [![GitHub Followers](https://img.shields.io/github/followers/superdev947?label=Follow&style=social)](https://github.com/superdev947)
-[![Years of Experience](https://img.shields.io/badge/7%2B%20Years-Expert-%23FF6B00)](https://)
+[![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://)
 
 **Building intelligent full-stack systems with Web3 & AI integrations.**  
 Specializing in scalable architectures from frontend to blockchain.
