@@ -83,13 +83,6 @@ Specializing in scalable architectures from frontend to blockchain.
 
 ---
 
-### 🔥 **Recent Projects**
-1. **[AI-Powered SaaS Platform](https://github.com/superdev947/project)** - Next.js + NestJS + LLM integration  
-2. **[Real-Time Trading Dashboard](https://github.com/superdev947/project)** - React Native + Socket.io + PostgreSQL  
-3. **[Blockchain Analytics Engine](https://github.com/superdev947/project)** - AWS + TensorFlow + Web3.js  
-
----
-
 ### 💡 **How I Can Help**
 - **Full-stack architecture** for complex applications  
 - **AI/Blockchain integration** consulting  
