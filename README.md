@@ -91,7 +91,6 @@ Specializing in scalable architectures from frontend to blockchain.
 ---
 
 ### 📫 **Let's Connect**
-- 🌐 [Portfolio](https://super-dev-947.vercel.app)  
-- ✉️ **Email:** super.dev.947@gmail.com  
+- 🌐 [Portfolio](https://super-dev-947.vercel.app)
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=superdev947.superdev947)](https://github.com/superdev947)
