@@ -90,7 +90,4 @@ Specializing in scalable architectures from frontend to blockchain.
 
 ---
 
-### 📫 **Let's Connect**
-- 🌐 [Portfolio](https://ai.blockchain-xdeveloper.com)
-
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=superdev947.superdev947)](https://github.com/superdev947)
