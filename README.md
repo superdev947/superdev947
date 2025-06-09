@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Supder Dev
+# 👋 Hi, I'm Super Dev
 ### **Senior Full-Stack Engineer** | **AI Engineer** | **Blockchain Engineer**
 
 [![GitHub Followers](https://img.shields.io/github/followers/superdev947?label=Follow&style=social)](https://github.com/superdev947)
