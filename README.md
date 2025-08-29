@@ -91,3 +91,112 @@ Specializing in scalable architectures from frontend to blockchain.
 ---
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=superdev947.superdev947)](https://github.com/superdev947)
+
+---
+
+### 🏅 HackerRank Certificate
+
+<table>
+	<tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/e5bf094390eb" target="_blank">
+				<img src="./hackerrank/React (Basic) Certificate.png" alt="React (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/c72bf92a6b99" target="_blank">
+				<img src="./hackerrank/Angular (Basic) Certificate.png" alt="Angular (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/8c546bebe39c" target="_blank">
+				<img src="./hackerrank/Angular (Intermediate) Certificate.png" alt="Angular (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/dfe5531e341e" target="_blank">
+				<img src="./hackerrank/JavaScript (Intermediate) Certificate.png" alt="JavaScript (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/fbc2d73d13cc" target="_blank">
+				<img src="./hackerrank/JavaScript (Basic) Certificate.png" alt="JavaScript (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/8d17cf1cc752" target="_blank">
+				<img src="./hackerrank/Node (Basic) Certificate.png" alt="Node (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+	</tr>
+    <tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/dd13a6280d0f" target="_blank">
+				<img src="./hackerrank/Software Engineer Certificate.png" alt="Software Engineer Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/7220ca6ff0e1" target="_blank">
+				<img src="./hackerrank/Software Engineer Intern Certificate.png" alt="Software Engineer Intern Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/c47889000a48" target="_blank">
+				<img src="./hackerrank/Node.js (Intermediate) Certificate.png" alt="Node.js (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+    </tr>
+    <tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/284942299187" target="_blank">
+				<img src="./hackerrank/Rest API (Intermediate) Certificate.png" alt="Rest API (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/5ff7281a96a5" target="_blank">
+				<img src="./hackerrank/SQL (Advanced) Certificate.png" alt="SQL (Advanced) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/5ddc0823fd6d" target="_blank">
+				<img src="./hackerrank/SQL (Intermediate) Certificate.png" alt="SQL (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+    </tr>
+    <tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/02995941aef5" target="_blank">
+				<img src="./hackerrank/SQL (Basic) Certificate.png" alt="SQL (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/aedd424e9abc" target="_blank">
+				<img src="./hackerrank/Python (Basic) Certificate.png" alt="Python (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/6d003e907d1d" target="_blank">
+				<img src="./hackerrank/Java (Basic) Certificate.png" alt="Java (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+    </tr>
+    <tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/643e588626e0" target="_blank">
+				<img src="./hackerrank/Go (Intermediate) Certificate.png" alt="Go (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/77b43ac0bd1c" target="_blank">
+				<img src="./hackerrank/Go (Basic) Certificate.png" alt="Go (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/2baa91f996dc" target="_blank">
+				<img src="./hackerrank/Problem Solving (Basic) Certificate.png" alt="Problem Solving (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+    </tr>
+</table>
