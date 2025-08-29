@@ -198,5 +198,3 @@ Specializing in scalable architectures from frontend to blockchain.
 ---
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=superdev947.superdev947)](https://github.com/superdev947)
-
----
