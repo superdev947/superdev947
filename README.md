@@ -186,6 +186,7 @@ Specializing in scalable architectures from frontend to blockchain.
 ---
 
 ### 📈 **GitHub Analytics**
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=superdev947&theme=react-dark&hide_border=true&area=true)](https://github.com/superdev947)
 [![Your Stats](https://github-readme-stats.vercel.app/api?username=superdev947&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/superdev947)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superdev947&layout=compact&theme=dark&hide_border=true)](https://github.com/superdev947)
 
