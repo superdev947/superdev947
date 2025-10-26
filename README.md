@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jesse Rohner
-### **Senior Full-Stack Engineer** | **AI Engineer** | **Blockchain Engineer**
+### **Senior Software Engineer** | **AI Engineer** | **Blockchain Engineer**
 
 [![GitHub Followers](https://img.shields.io/github/followers/superdev947?label=Follow&style=social)](https://github.com/superdev947)
 [![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://)
