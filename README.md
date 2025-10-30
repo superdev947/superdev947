@@ -4,8 +4,17 @@
 [![GitHub Followers](https://img.shields.io/github/followers/superdev947?label=Follow&style=social)](https://github.com/superdev947)
 [![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://)
 
-**Building intelligent full-stack systems with Web3 & AI integrations.**  
-Specializing in scalable architectures from frontend to blockchain.
+I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in building intelligent full-stack systems with **Web3** and **AI** integrations. My expertise spans across **Python**, **JavaScript/TypeScript**, **Solidity**, and multiple programming paradigms, enabling me to architect scalable solutions from frontend to blockchain.
+
+Beyond development, I have a strong foundation in **DevOps**, **MLOps**, and **Cloud Infrastructure**, ensuring seamless deployment, automation, and scalability of cutting-edge solutions 🚀.
+
+### 🔍 Professional Focus
+
+- **Full-Stack Development**: Building robust applications with modern frameworks and best practices
+- **AI/ML Engineering**: Developing and deploying intelligent systems using TensorFlow, PyTorch, and LangChain
+- **Blockchain Development**: Smart contract development, DApp architecture, and Web3 integration
+- **Cloud & DevOps**: Expertise in AWS, GCP, Azure, Kubernetes, and CI/CD pipelines
+- **Performance Optimization**: Architecting scalable systems that handle millions of users
 
 ### 🛠️ **Tech Stack**
 
@@ -143,16 +152,23 @@ Specializing in scalable architectures from frontend to blockchain.
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=superdev947&theme=react-dark&hide_border=true&area=true)](https://github.com/superdev947)
-[![Your Stats](https://github-readme-stats.vercel.app/api?username=superdev947&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/superdev947)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superdev947&layout=compact&theme=dark&hide_border=true)](https://github.com/superdev947)
-
 ---
 
 ### 💡 **How I Can Help**
-- **Full-stack architecture** for complex applications  
-- **AI/Blockchain integration** consulting  
-- **Performance optimization** at scale  
+
+- **Full-Stack Architecture** for complex enterprise applications
+- **AI/ML Integration** consulting and implementation
+- **Blockchain Development** from smart contracts to full DApps
+- **Performance Optimization** at scale
+- **DevOps & Cloud Infrastructure** design and implementation
+- **Technical Leadership** and team mentorship
+
+---
+
+### 🧩 Let's Connect
+
+I'm always open to collaborating, contributing, or just talking about technology, AI, blockchain, and software architecture.  
+Feel free to reach out or check out my latest work here on GitHub! 🚀
 
 ---
 
