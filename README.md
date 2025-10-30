@@ -1,18 +1,25 @@
-# 👋 Hi, I'm Super Dev
-### **Senior Software Engineer** | **AI Engineer** | **Blockchain Engineer**
+<p align="center">
+  <a href="https://github.com/superdev947"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Blockchain%20Engineer;10%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+
+## 👨‍💻 About Me
 
 [![GitHub Followers](https://img.shields.io/github/followers/superdev947?label=Follow&style=social)](https://github.com/superdev947)
-[![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://)
+[![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://github.com/superdev947)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=superdev947.superdev947)](https://github.com/superdev947)
 
-I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in building intelligent full-stack systems with **Web3** and **AI** integrations. My expertise spans across **Python**, **JavaScript/TypeScript**, **Solidity**, and multiple programming paradigms, enabling me to architect scalable solutions from frontend to blockchain.
+I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in building intelligent full-stack systems with **Web3** and **AI** integrations.
 
-Beyond development, I have a strong foundation in **DevOps**, **MLOps**, and **Cloud Infrastructure**, ensuring seamless deployment, automation, and scalability of cutting-edge solutions 🚀.
+---
 
 ### 🔍 Professional Focus
 
 - **Full-Stack Development**: Building robust applications with modern frameworks and best practices
 - **AI/ML Engineering**: Developing and deploying intelligent systems using TensorFlow, PyTorch, and LangChain
 - **Blockchain Development**: Smart contract development, DApp architecture, and Web3 integration
+- **SportsBook and Casino**: 
+  BetsApi, Betradar, BetEXCH, Betfaire, Lsports API integration, Fair Web game development (Blackjack, Poker, Roulette, Crash, Coinflip, Hilo, etc), Ezugi, Vivo, Sagaming, TVBET, Live Games, Evolution, Betsoft, NSoft, Hog, NetGame
 - **Cloud & DevOps**: Expertise in AWS, GCP, Azure, Kubernetes, and CI/CD pipelines
 - **Performance Optimization**: Architecting scalable systems that handle millions of users
 
@@ -146,6 +153,21 @@ Beyond development, I have a strong foundation in **DevOps**, **MLOps**, and **C
 ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?logo=polygon&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?logo=chainlink&logoColor=white)
 
+#### **SportsBook, Gambling & Casino**
+![BetsAPI](https://img.shields.io/badge/-BetsAPI-00A86B?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Betradar](https://img.shields.io/badge/-Betradar-FF6B00?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Betfair](https://img.shields.io/badge/-Betfair-FFD700?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0iYmxhY2siLz4KPC9zdmc+&logoColor=black)
+![Lsports](https://img.shields.io/badge/-Lsports-0066CC?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Ezugi](https://img.shields.io/badge/-Ezugi-E63946?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Evolution](https://img.shields.io/badge/-Evolution-FF0000?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Vivo Gaming](https://img.shields.io/badge/-Vivo%20Gaming-9B59B6?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Betsoft](https://img.shields.io/badge/-Betsoft-1E3A8A?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![TVBET](https://img.shields.io/badge/-TVBET-00B4D8?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Sagaming](https://img.shields.io/badge/-Sagaming-F77F00?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![NSoft](https://img.shields.io/badge/-NSoft-2ECC71?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Casino Games](https://img.shields.io/badge/-Casino%20Games-8B0000?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Live Casino](https://img.shields.io/badge/-Live%20Casino-DC143C?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+
 ---
 
 ### 📈 **GitHub Analytics**
@@ -169,7 +191,3 @@ Beyond development, I have a strong foundation in **DevOps**, **MLOps**, and **C
 
 I'm always open to collaborating, contributing, or just talking about technology, AI, blockchain, and software architecture.  
 Feel free to reach out or check out my latest work here on GitHub! 🚀
-
----
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=superdev947.superdev947)](https://github.com/superdev947)
