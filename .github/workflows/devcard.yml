@@ -14,9 +14,13 @@ permissions:
 jobs:
   devcard:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
+        uses: dailydotdev/action-devcard@3.2.1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          user_id: ${{ secrets.USER_ID }}
+          commit_branch: devcard
+          commit_filename: devcard.png
+          commit_message: "chore: update ${filename}"
