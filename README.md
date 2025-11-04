@@ -2,8 +2,6 @@
   <a href="https://github.com/superdev947"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Blockchain%20Engineer;10%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<a href="https://app.daily.dev/superdev947"><img src="./devcard.png" width="356" alt="superdev947's Dev Card"/></a>
-
 ## 👨‍💻 About Me
 
 [![GitHub Followers](https://img.shields.io/github/followers/superdev947?label=Follow&style=social)](https://github.com/superdev947)
@@ -174,6 +172,11 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ### 📈 **GitHub Analytics**
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+<p align="center">
+  <a href="https://app.daily.dev/superdev947"><img src="./devcard.png" width="356" alt="superdev947's Dev Card"/></a>
+</p>
 
 ---
 
