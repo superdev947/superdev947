@@ -1,4 +1,4 @@
-name: GitHub-Profile-Updates
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build-3d-contrib:
+  build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
@@ -25,14 +25,3 @@ jobs:
           git add -A .
           git commit -m "generated 3D contribution graph" || exit 0
           git push
-
-  devcard:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@3.0.0
-        with:
-          user_id: ${{ secrets.USER_ID }}
-          commit_message: "chore: update ${filename}"
