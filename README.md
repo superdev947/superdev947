@@ -174,10 +174,14 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
-<p align="center">
-  <a href="https://app.daily.dev/superdev947"><img src="./devcard.png" width="356" alt="superdev947's Dev Card"/></a>
+<p align="center" dir="auto">
+  <a href="https://app.daily.dev/superdev947">
+    <img src="./devcard.png" width="356" alt="superdev947's Dev Card"/>
+  </a>
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/646ff270f4193ae10b4a886a?variant=dark" alt="roadmap.sh"/>
+  </a>
 </p>
-
 ---
 
 ### 💡 **How I Can Help**
