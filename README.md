@@ -176,7 +176,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ---
 <p align="center" dir="auto">
   <a href="https://app.daily.dev/superdev947">
-    <img src="./devcard.png" width="356" alt="superdev947's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/lBWjfAHNiu9ZtwDKm2aJ1.png?type=default&r=jri" width="356" alt="Super Dev's Dev Card"/>
   </a>
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/tall/646ff270f4193ae10b4a886a?variant=dark" alt="roadmap.sh"/>
