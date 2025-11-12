@@ -179,7 +179,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
     <img src="https://api.daily.dev/devcards/v2/lBWjfAHNiu9ZtwDKm2aJ1.png?type=default&r=jri" width="356" alt="Super Dev's Dev Card"/>
   </a>
   <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/646ff270f4193ae10b4a886a?variant=dark" alt="roadmap.sh"/>
+    <img src="https://roadmap.sh/card/tall/646ff270f4193ae10b4a886a?variant=light" alt="roadmap.sh"/>
   </a>
 </p>
 
