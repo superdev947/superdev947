@@ -17,14 +17,124 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 - **Full-Stack Development**: Building robust applications with modern frameworks and best practices
 - **AI/ML Engineering**: Developing and deploying intelligent systems using TensorFlow, PyTorch, and LangChain
 - **Blockchain Development**: Smart contract development, DApp architecture, and Web3 integration
-- **SportsBook and Casino**: 
+- **SportsBook and Casino**:
   BetsApi, Betradar, BetEXCH, Betfaire, Lsports API integration, Fair Web game development (Blackjack, Poker, Roulette, Crash, Coinflip, Hilo, etc), Ezugi, Vivo, Sagaming, TVBET, Live Games, Evolution, Betsoft, NSoft, Hog, NetGame
 - **Cloud & DevOps**: Expertise in AWS, GCP, Azure, Kubernetes, and CI/CD pipelines
 - **Performance Optimization**: Architecting scalable systems that handle millions of users
 
+### 🏅 HackerRank Certificate
+
+<table>
+	<tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/e5bf094390eb" target="_blank">
+				<img src="./hackerrank/React (Basic) Certificate.png" alt="React (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/c72bf92a6b99" target="_blank">
+				<img src="./hackerrank/Angular (Basic) Certificate.png" alt="Angular (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/8c546bebe39c" target="_blank">
+				<img src="./hackerrank/Angular (Intermediate) Certificate.png" alt="Angular (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/dfe5531e341e" target="_blank">
+				<img src="./hackerrank/JavaScript (Intermediate) Certificate.png" alt="JavaScript (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/fbc2d73d13cc" target="_blank">
+				<img src="./hackerrank/JavaScript (Basic) Certificate.png" alt="JavaScript (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/8d17cf1cc752" target="_blank">
+				<img src="./hackerrank/Node (Basic) Certificate.png" alt="Node (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+	</tr>
+    <tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/dd13a6280d0f" target="_blank">
+				<img src="./hackerrank/Software Engineer Certificate.png" alt="Software Engineer Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/7220ca6ff0e1" target="_blank">
+				<img src="./hackerrank/Software Engineer Intern Certificate.png" alt="Software Engineer Intern Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/c47889000a48" target="_blank">
+				<img src="./hackerrank/Node.js (Intermediate) Certificate.png" alt="Node.js (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+    </tr>
+    <tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/284942299187" target="_blank">
+				<img src="./hackerrank/Rest API (Intermediate) Certificate.png" alt="Rest API (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/5ff7281a96a5" target="_blank">
+				<img src="./hackerrank/SQL (Advanced) Certificate.png" alt="SQL (Advanced) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/5ddc0823fd6d" target="_blank">
+				<img src="./hackerrank/SQL (Intermediate) Certificate.png" alt="SQL (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+    </tr>
+    <tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/02995941aef5" target="_blank">
+				<img src="./hackerrank/SQL (Basic) Certificate.png" alt="SQL (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/aedd424e9abc" target="_blank">
+				<img src="./hackerrank/Python (Basic) Certificate.png" alt="Python (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/6d003e907d1d" target="_blank">
+				<img src="./hackerrank/Java (Basic) Certificate.png" alt="Java (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+    </tr>
+    <tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/643e588626e0" target="_blank">
+				<img src="./hackerrank/Go (Intermediate) Certificate.png" alt="Go (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/77b43ac0bd1c" target="_blank">
+				<img src="./hackerrank/Go (Basic) Certificate.png" alt="Go (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/2baa91f996dc" target="_blank">
+				<img src="./hackerrank/Problem Solving (Basic) Certificate.png" alt="Problem Solving (Basic) Certificate" width="500"/>
+			</a>
+		</td>
+    </tr>
+</table>
+
+---
+
 ### 🛠️ **Tech Stack**
 
 #### **Programming Languages**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -46,6 +156,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![Perl](https://img.shields.io/badge/-Perl-39457E?logo=perl&logoColor=white)
 
 #### **Frontend**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
@@ -66,6 +177,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 #### **Backend & Frameworks**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
@@ -80,6 +192,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![Apollo](https://img.shields.io/badge/-Apollo-311C87?logo=apollographql&logoColor=white)
 
 #### **Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -94,6 +207,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
 
 #### **Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
@@ -112,6 +226,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 
 #### **Tools & Methodologies**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
@@ -129,6 +244,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 #### **AI/ML**
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
@@ -141,6 +257,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 #### **Blockchain & Web3**
+
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?logo=ethereum&logoColor=white)
@@ -153,6 +270,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?logo=chainlink&logoColor=white)
 
 #### **SportsBook, Gambling & Casino**
+
 ![BetsAPI](https://img.shields.io/badge/-BetsAPI-00A86B?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
 ![Betradar](https://img.shields.io/badge/-Betradar-FF6B00?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
 ![Betfair](https://img.shields.io/badge/-Betfair-FFD700?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0iYmxhY2siLz4KPC9zdmc+&logoColor=black)
@@ -174,6 +292,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
+
 <p align="center" dir="auto">
   <a href="https://app.daily.dev/superdev947">
     <img src="https://api.daily.dev/devcards/v2/lBWjfAHNiu9ZtwDKm2aJ1.png?type=default&r=jri" width="356" alt="Super Dev's Dev Card"/>
