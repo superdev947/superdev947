@@ -212,3 +212,6 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 
 I'm always open to collaborating, contributing, or just talking about technology, AI, blockchain, and software architecture.  
 Feel free to reach out or check out my latest work here on GitHub! 🚀
+
+
+<!-- Security scan triggered at 2026-08-31 18:08:38 -->
